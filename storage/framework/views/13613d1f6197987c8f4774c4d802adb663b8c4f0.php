@@ -1,0 +1,1 @@
+Navbar de l'aplicació<?php /**PATH /var/www/html/pt2a/resources/views/navbar.blade.php ENDPATH**/ ?>
